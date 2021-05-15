@@ -3,9 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <div className="contact">
-      <div className="container">
-        <div>
-          
+      <div className="mt-3">
           <div align="center">
             <h1 class="font-weight-light" align="center">Contact</h1>
               <form name="form1" action="MAILTO:andrei_iatin@yahoo.com" method="post" enctype="text/plain">
@@ -42,10 +40,9 @@ function Contact() {
 
             </form>
           </div>
-        </div>
+        
       </div>
     </div>
   );
 }
-
 export default Contact;
