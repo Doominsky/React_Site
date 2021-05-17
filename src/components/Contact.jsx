@@ -8,9 +8,9 @@ function Contact() {
             <h1 class="font-weight-light" align="center">Contact</h1>
               <form name="form1" action="MAILTO:andrei_iatin@yahoo.com" method="post" enctype="text/plain">
                 <font/>Name: <br/>
-                  <input type="text" name="nume" /><br />
+                  <input type="text" name="firstname" /><br />
                   Surname: <br/>
-                  <input type="text" name="adresa" /><br /><br/>
+                  <input type="text" name="surname" /><br /><br/>
                   What programming language do you see me fit for your job position?<br/>
                   <input type="checkbox" name="job[]"  value="html"/> HTML/CSS/JS<br/>
 
@@ -20,7 +20,7 @@ function Contact() {
 
                   <br />
                   What company are you representing?<br/>
-                  <select name="pg">
+                  <select name="company">
                   <option value="">Select one</option>
                   <option value="Haufe">Haufe Group</option>
                   <option value="Haufe">Atoss Software</option>
