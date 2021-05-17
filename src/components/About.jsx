@@ -50,7 +50,7 @@ function About() {
               folks this hobby might not be interesting at all, but I love games, and I am very competitive at them
               too. For the most part, I am playing Tom Clancy's Rainbow Six Siege, but often I'm also playing
               Rocket League too. When I have time, I also like to edit videos and make nature pictures. Here is my
-              <a href="Gallery.jsx"> Gallery</a>.
+              <a href="/gallery"> Gallery</a>.
             </p>
           </div>
           <div class="col-lg-6">
