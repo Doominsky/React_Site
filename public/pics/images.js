@@ -1,0 +1,9 @@
+export const boulders = require('./boulders.jpg');
+export const city = require('./city.jpg');
+export const field = require('./field.jpg');
+export const flower = require('./flower.jpg');
+export const open = require('./open.jpg');
+export const path = require('./path.jpg');
+export const river = require('./river.jpg');
+export const rocks = require('./rocks.jpg');
+export const trees = require('./trees.jpg');

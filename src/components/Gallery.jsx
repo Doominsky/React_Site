@@ -2,61 +2,128 @@ import React from "react";
 
 function Gallery(){
     return(
-        <div className="mt-3">
+        <div class="mt-3">
         <div align="center">
           <h1 class="font-weight-light" align="center">Gallery</h1>
             
         </div>
-        <div class="container">
-        <div class="row align-items-center my-5">
-          
-          <div class="col-lg-6">
-            <h1 class="font-weight-light">Who am I?</h1>
-            <p>
-             
-            </p>
-          </div>
-          <div class="col-lg-6">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
-        </div>
-        <div class="row align-items-center my-5">
-        <div class="col-lg-6">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
-          <div class="col-lg-6">
-            <h1 class="font-weight-light">Main Knowledge?</h1>
-            <p>
-             
-            </p>
-          </div>
-        </div>
-        <div class="row align-items-center my-5">
-        
-          <div class="col-lg-6">
-            <h1 class="font-weight-light">Hobbies?</h1>
-            <p>
-              
-            </p>
-          </div>
-          <div class="col-lg-6">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
-        </div>
-      </div>
+        <div class="lightbox">
+  <div class="row align-items-center mt-5">
+    <div class="col-lg-3">
+      <img
+        src="/pics/boulders.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
     </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/open_grass.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-3-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/river.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/rocks.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/city.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/field.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/open_area.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/river1.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/panorama.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/plank.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/apples.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/fall_tree.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/mountain.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/summit.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/houses.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+    <div class="col-lg-3">
+      <img
+        src="/pics/mountain1.jpg"
+        alt=""
+        class="w-100 mb-2 mb-md-4 shadow-1-strong rounded"
+      />
+    </div>
+  </div>
+</div>
+      </div>
     );
 }
 
