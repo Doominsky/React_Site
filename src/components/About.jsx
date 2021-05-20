@@ -12,7 +12,7 @@ function About() {
               Year 3 Student within "Politehnica" University of Timișoara, I'm currently looking
               to enhance my future Computer Science career by learning new technologies, and develop 
               new skills. I'm driven by my motivation to fulfill goals and dreams, personal or professional.
-              For information, check the <a href="/more">Academical History</a> page or the <a href="/personal">Character Traits</a> page.
+              For more information, check the <a href="/more">Academical History</a> page or the <a href="/personal">Character Traits</a> page.
             </p>
           </div>
           <div class="col-lg-6">
@@ -32,9 +32,9 @@ function About() {
             />
           </div>
           <div class="col-lg-6">
-            <h1 class="font-weight-light text-white">Main Knowledge?</h1>
+            <h1 class="font-weight-light text-white">Knowledge?</h1>
             <p class="text-white">
-              There isn't a real focused knowledge I have. Personally, I can say I aquired knowledge from
+              There isn't a focused knowledge I have. Personally, I can say I aquired knowledge from
               multiple mentors or courses. For an instance, I've finished "We Speak Code" in the summer of 2017,
               which gave me an abudance of HTML/CSS knowledge and skills, and also built a foundation and welcomed
               me into the Web Programming world. In 2018, I've worked on a website called "20th Century Music", 
