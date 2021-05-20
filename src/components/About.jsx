@@ -7,11 +7,12 @@ function About() {
         <div class="row align-items-center my-5">
           
           <div class="col-lg-6">
-            <h1 class="font-weight-light">Who am I?</h1>
-            <p>
+            <h1 class="font-weight-light text-white">Who am I?</h1>
+            <p class="text-white">
               Year 3 Student within "Politehnica" University of Timișoara, I'm currently looking
               to enhance my future Computer Science career by learning new technologies, and develop 
               new skills. I'm driven by my motivation to fulfill goals and dreams, personal or professional.
+              For more academic/educational information, click <a href="/more">here</a>.
             </p>
           </div>
           <div class="col-lg-6">
@@ -31,8 +32,8 @@ function About() {
             />
           </div>
           <div class="col-lg-6">
-            <h1 class="font-weight-light">Main Knowledge?</h1>
-            <p>
+            <h1 class="font-weight-light text-white">Main Knowledge?</h1>
+            <p class="text-white">
               There isn't a real focused knowledge I have. Personally, I can say I aquired knowledge from
               multiple mentors or courses. For an instance, I've finished "We Speak Code" in the summer of 2017,
               which gave me an abudance of HTML/CSS knowledge and skills, and also built a foundation and welcomed
@@ -44,8 +45,8 @@ function About() {
         <div class="row align-items-center my-5">
         
           <div class="col-lg-6">
-            <h1 class="font-weight-light">Hobbies?</h1>
-            <p>
+            <h1 class="font-weight-light text-white">Hobbies?</h1>
+            <p class="text-white">
               Anytime I want to escape from the real world, I like to game and listen to music. I know for some
               folks this hobby might not be interesting at all, but I love games, and I am very competitive at them
               too. For the most part, I am playing Tom Clancy's Rainbow Six Siege, but often I'm also playing

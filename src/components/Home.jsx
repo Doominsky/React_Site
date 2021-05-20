@@ -13,8 +13,8 @@ function Home() {
             />
           </div>
           <div class="col-lg-6">
-            <h1 class="font-weight-light">Home</h1>
-            <p>
+            <h1 class="font-weight-light text-white">Home</h1>
+            <p class="text-white">
               Hello, and welcome to my professional CV React Application! In here you will acknowledge 
               various information and facts about me, both professional and personal. This application is 
               made with HTML/CSS, and JSX files, linked together in a simple and user-friendly way, so you

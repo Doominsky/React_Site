@@ -5,8 +5,8 @@ function Contact() {
     <div className="contact">
       <div className="mt-3">
           <div align="center">
-            <h1 class="font-weight-light" align="center">Contact</h1>
-              <form name="form1" action="MAILTO:andrei_iatin@yahoo.com" method="post" enctype="text/plain">
+            <h1 class="font-weight-light text-white" align="center">Contact</h1>
+              <form class="text-white" name="form1" action="MAILTO:andrei_iatin@yahoo.com" method="post" enctype="text/plain">
                 <font/>Name: <br/>
                   <input type="text" name="firstname" /><br />
                   Surname: <br/>
