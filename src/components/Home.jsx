@@ -23,7 +23,7 @@ function Home() {
       </div>
       <div align="right">
         <a href="https://www.instagram.com/doominsky_24/"><img class="mr-3" src="/pics/insta.png" width="50px" height="50px"/></a>
-        <a href="https://www.facebook.com/andrei.iatin"><img class="mr-5" src="/pics/fb.png" width="50px" height="50px"/></a>
+        <a href="https://www.facebook.com/andrei.iatin"><img class="mr-2" src="/pics/fb.png" width="50px" height="50px"/></a>
       </div>
     </div>
   );

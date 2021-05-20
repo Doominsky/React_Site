@@ -29,7 +29,7 @@ function More() {
           <div class="col-lg-4">
               <h1 class="font-weight-light text-white">2020 - Arduino</h1>
               <p class="text-white">
-                Embedded systems project, made in <a href="https://www.tinkercad.com/things/0HXqjIzUyG1">Tinkercad</a> which detects the percentage of gas in the atmosphere. 
+                Embedded Systems project, made in <a href="https://www.tinkercad.com/things/0HXqjIzUyG1">Tinkercad</a> which detects the percentage of gas in the atmosphere. 
               </p>
             </div>
             <div class="col-lg-4">
@@ -61,7 +61,7 @@ function More() {
             </div>
           </div>
         </div>
-        <a href="/about"><img align="left" src="/pics/left.png" width="100" height="100"/></a>
+        <a href="/about"><img class ="ml-2" align="left" src="/pics/left.png" width="100" height="100"/></a>
       </div>
     );
   }
