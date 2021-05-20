@@ -2,9 +2,9 @@ import React from "react";
 
 function Gallery(){
     return(
-        <div class="mt-3">
+        <div class="mt-5">
         <div align="center">
-          <h1 class="font-weight-light" align="center">Gallery</h1>
+          <h1 class="font-weight-light text-white" align="center">Gallery</h1>
             
         </div>
         <div class="lightbox">

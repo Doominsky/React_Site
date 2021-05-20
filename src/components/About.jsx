@@ -12,7 +12,7 @@ function About() {
               Year 3 Student within "Politehnica" University of Timișoara, I'm currently looking
               to enhance my future Computer Science career by learning new technologies, and develop 
               new skills. I'm driven by my motivation to fulfill goals and dreams, personal or professional.
-              For more academic/educational information, click <a href="/more">here</a>.
+              For information, check the <a href="/more">Academical History</a> page or the <a href="/personal">Character Traits</a> page.
             </p>
           </div>
           <div class="col-lg-6">
@@ -38,7 +38,7 @@ function About() {
               multiple mentors or courses. For an instance, I've finished "We Speak Code" in the summer of 2017,
               which gave me an abudance of HTML/CSS knowledge and skills, and also built a foundation and welcomed
               me into the Web Programming world. In 2018, I've worked on a website called "20th Century Music", 
-              translated in Romanian. If you'd like to take a glance at it, here is the<a href="https://github.com/Doominsky/Music_Site_HTML-CSS"> GitHub</a> link.
+              in Romanian. If you'd like to take a glance at it, here is the<a href="https://github.com/Doominsky/Music_Site_HTML-CSS"> GitHub</a> link.
             </p>
           </div>
         </div>

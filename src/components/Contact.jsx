@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <div className="contact">
-      <div className="mt-3">
+      <div className="mt-5">
           <div align="center">
             <h1 class="font-weight-light text-white" align="center">Contact</h1>
               <form class="text-white" name="form1" action="MAILTO:andrei_iatin@yahoo.com" method="post" enctype="text/plain">
@@ -31,7 +31,7 @@ function Contact() {
                   <br />
                   If other, type it below.<br/>
                   <textarea name="other"></textarea><br/><br/>
-                  Send a message<br/>
+                  Send a message.<br/>
                   <textarea name="message"></textarea><br /><br/>
 
                   <input type="submit"  value="Send" />
