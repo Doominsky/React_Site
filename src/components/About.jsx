@@ -49,7 +49,7 @@ function About() {
             <p class="text-white">
               Anytime I want to escape from the real world, I like to game and listen to music. I know for some
               folks this hobby might not be interesting at all, but I love games, and I am very competitive at them
-              too. For the most part, I am playing Tom Clancy's Rainbow Six Siege, but often I'm also playing
+              too. For the most part, I am playing Tom Clancy's Rainbow Six Siege, but often I'm playing
               Rocket League too. I also like to edit videos and make nature pictures. Here is my
               <a href="/gallery"> Gallery</a> of my most recent pictures.
             </p>

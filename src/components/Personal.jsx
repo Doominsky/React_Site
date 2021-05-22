@@ -11,7 +11,7 @@ function Personal() {
               <p class="text-white">
                 I find myself as a very respectful person, who takes tasks seriously. I believe I will
                 cope well with the daily routine of a work environment. Whether I am a superior or
-                just a regular employee, I will always remain humble for the task at hand. Respecting eachother
+                just a regular employee, I will always remain humble for the task at hand. Respecting each other
                 regardless of hierarchy is something I appreciate.
               </p>
             </div>
@@ -38,7 +38,7 @@ function Personal() {
           <div class="col-lg-4">
               <h1 class="font-weight-light text-white">Positive Attitude</h1>
               <p class="text-white">
-                I believe no matter how difficult a task is, no matter how many obstacles are in your way 
+                I believe no matter how difficult a task is, no matter how many obstacles are in your way, 
                 always remain positive. If you lose, that will be a reason for you to improve. 
                 With sufficient effort, you will be able to achieve any goals you planned to pursue. 
               </p>
@@ -55,7 +55,7 @@ function Personal() {
             <div class="col-lg-4">
               <h1 class="font-weight-light text-white">Open Minded</h1>
               <p class="text-white">
-                This trait is something I am happy with. It allows me to socialize easier inside and outside
+                This trait is one I am happy with. It allows me to socialize easier inside and outside
                 of the work environment. Despite at first I feel nervous, rather excited to meet new people,
                 within relatively short time, I will be opened up more socially, and making friends
                 is a bonus to me.
@@ -63,7 +63,7 @@ function Personal() {
             </div>
           </div>
         </div>
-        <a href="/about"><img class ="ml-2" align="left" src="/pics/left.png" width="100" height="100"/></a>
+        <a href="/about"><img alt="" class ="ml-2" align="left" src="/pics/left.png" width="100" height="100"/></a>
       </div>
     );
   }

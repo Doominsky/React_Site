@@ -61,7 +61,7 @@ function More() {
             </div>
           </div>
         </div>
-        <a href="/about"><img class ="ml-2" align="left" src="/pics/left.png" width="100" height="100"/></a>
+        <a href="/about"><img alt="" class ="ml-2" align="left" src="/pics/left.png" width="100" height="100"/></a>
       </div>
     );
   }
